@@ -1,2 +1,2 @@
 # lifeline
-Create an interactive history of your life
+Create an interactive history of a life
