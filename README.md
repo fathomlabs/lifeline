@@ -8,6 +8,8 @@ The basic premise is to make an interactive, pretty time line of the events in o
 
 ## UI
 
+[early design](https://redpen.io/sg65bb09a671e2b1ce)
+
 Initially the user will be asked their name and date of birth. This can be given to the nearest year or as an exact date and time.
 
 Next, the user will be prompted to choose the categories of the key themes in their life, for example: schools, jobs, relationships, major events, homes, hobbies, pets, *etc*.
